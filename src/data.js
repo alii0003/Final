@@ -69,16 +69,16 @@ export default [{
     id: "1"
   },
   fields: {
-    name: "Audi A8",
-    slug: "audi-a8",
+    name: "VAZ-2107",
+    slug: "vaz-2107",
     type: "SEDAN",
-    price: 115000,
+    price: 7000,
     size: 72,
-    carMake: 'Audi',
+    carMake: 'VAZ',
     gps: true,
     sportPackage: false,
     featured: false,
-    description: "Anyone seeking an executive sedan that offers convenience and technological innovation in large quantities should take a hard look at the 2020 Audi A8. Packed with innovation, the Audi A8 is easy to drive and unexpectedly athletic. Impressive passenger space is an A8 hallmark, and its long wheelbase ensures that rear-seat passengers are well accommodated. When equipped with Traffic Jam Assist (Driver Assistance package), the A8 will help you out with acceleration and braking in heavy traffic, but your hands can't leave the wheel for more than a few seconds.",
+    description: "Tecili Evala Salam!Mashin Zavod Mashindi!Vurugu Udari Deyishen Detali Yoxdur!Cemi 3 Detalinda Kraska Var!Tam Dolu Mashindi!Cex Faralar!Aparatura 6 Kalonka + Basovik+Usilitel!Pioneer Original Monitor+Arxa Kamera!Tekerlerine kimi Tezedi!3 Qat STP-ile Obeshumka Olunub!Peredok Motor Ideal Veziyetdedi! Centralka Garmoshka Perdeler!Zang Vurub Barter Teklif Etmeyin!Pul Lazim oldugu Ucun Satiram!Mashin Oz Adimdadi!026-Nomre ustunde Hediyye!Bir Sozle Otur Sur!Qiymet Yalniz Mashinin Yaninda Shirinliy Endirim Olacag!",
     extras: [
       "Power Steering",
       "Alloy Wheels",
@@ -179,24 +179,22 @@ export default [{
     id: "3"
   },
   fields: {
-    name: "BMW 750i",
-    slug: "bmw-7-series-750i",
+    name: "Lada Priora",
+    slug: "vaz",
     type: "SEDAN",
-    price: 160000,
-    size: 72,
-    carMake: 'BMW',
+    price: 8600,
+    size: 50,
+    carMake: 'VAZ',
     gps: true,
     sportPackage: true,
     featured: false,
-    description: "Master every performance, enjoy every moment. The BMW 7 Series Sedan stands for self-assured presence, exceptional performance and maximum comfort. As the BMW 750Li powered by a newly developed BMW TwinPower Turbo 8-cylinder petrol engine and with xDrive as standard, it is quite simply created for assuming the leading position. he interior welcomes you with exclusive, high-quality materials which, together with the innovative connectivity features, produce a hitherto unachieved ambience. ",
+    description: "Ciddi wexsler buyurub baxa biler",
     extras: [
-      "Leather Wrapped Steering Wheel",
-      "Adaptive Cruise Control ",
-      "Seat Memory",
-      "Lane Departure Warning",
-      "Variable Speed Intermittent Wipers",
-      "Hard Disk Drive",
-      "Smart Device Integration"
+      "ABS",
+      "Yağış sensoru",
+      "Mərkəzi qapanma",
+      "Yan pərdələr",
+      "Oturacaqların isidilməsi",
     ],
     images: [{
       fields: {
@@ -234,24 +232,24 @@ export default [{
     id: "4"
   },
   fields: {
-    name: "Audi A6",
-    slug: "audi-a6",
+    name: "Mercedes-Benz",
+    slug: "Merco",
     type: "SEDAN",
-    price: 140000,
+    price: 14000,
     size: 75,
-    carMake: 'Audi',
+    carMake: 'Mercedes-Benz',
     gps: true,
     sportPackage: true,
     featured: false,
-    description: "The A6 Sedan features hallmark Audi design cues combined with intricate details to create an unmistakable presence. The beauty of the A6 Sedan can be seen not just in its design but also in its technology. With intelligent innovations and advanced driver assistance systems, the A6 is more. The strong and elegant exterior of the A6 Sedan needs an interior to match. Setting new class standards, the A6 Sedan delivers luxury and technology like never before.",
+    description: "Avtomobıl saz vezıyyetdedır. Otur sür! Nakladkalar, yaglar, fılterler yenı deyışdirilib, udar yoxdur. 2022-ci ilə aıd suallar verməyın xahiş edırem.",
     extras: [
-      "Vehicle Stability Control System",
-      "Wireless Phone Charging",
-      "Electric Folding Rear View Mirror",
-      "Amazon Alexa integration",
-      "Electromechanical steering with speed-sensitive power assistance",
-      "Dual circuit braking system with division for front and rear",
-      "7 speed S tronic"
+      "Oturacaqların ventilyasiyası",
+      "Oturacaqların isidilməsi",
+      "Ksenon lampalar",
+      "ABS",
+      "Yüngül lehimli disklər",
+      "Arxa görüntü kamerası",
+      "Yağış sensoru"
     ],
     images: [{
       fields: {
